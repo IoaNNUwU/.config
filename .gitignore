@@ -1,0 +1,6 @@
+*
+!fish/config.fish
+!alacritty/alacritty.yml
+!starship.toml
+
+!.gitignore
