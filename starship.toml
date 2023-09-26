@@ -58,9 +58,9 @@ disabled = false
 
 [directory]
 style = "fg:#DEDEDE bg:#BA3941"
-format = "[ $path ]($style)"
+format = "[$path ]($style)"
 truncation_length = 0
-truncation_symbol = "…/"
+truncation_symbol = " "
 
 # Here is how you can shorten some long paths by text replacement
 # similar to mapped_locations in Oh My Posh:
